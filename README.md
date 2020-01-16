@@ -14,7 +14,7 @@ S1 Table. Dataset with the highest protein-coding transcript length per Gene, in
 
 S2 Table. Functional analysis results for WebGestalt and DAVID.
 
-S3 Table. KEGG Pathway IDs used in Supplementary Figure 2.
+S3 Table. KEGG Pathway IDs used in Supplementary Figure 3.
 
 S4 Table. Co-Expression results.
 
@@ -32,7 +32,7 @@ S5 Fig. Gene length and intron distribution in the human genome.
 
 S6 Fig. Transcript length distribution for genes specifically expressed in the given tissues.
 
-S7 Fig. Transcript length distribution for ageing related genes and for the rest of the dataset.
+S7 Fig. Transcript length distribution with ageing.
 
 S8 Fig. Evolution results for mouse, gorilla and chimpanzee.
 
