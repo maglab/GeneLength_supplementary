@@ -20,21 +20,22 @@ S4 Table. Co-Expression results.
 
 S5 Table. Number of Protein-Protein interactions and Publications in Pubmed for each gene in the dataset.
 
-S1 Fig. Functional analysis results for Cellular Component and Molecular Function.
+S1 Fig. Correlation between gene length and transcript length from the longest transcript in a gene.
 
-S2 Fig. Transcript length distribution per KEGG Pathway.
+S2 Fig. Functional analysis results for Cellular Component and Molecular Function.
 
-S3 Fig. Correlation results for Number of SNPs, protein size, transcript count, GC content and synonymous, missense and nonsense mutations against transcript length.
+S3 Fig. Transcript length distribution per KEGG Pathway.
 
-S4 Fig. Gene length and intron distribution in the human genome.
+S4 Fig. Correlation results for Number of SNPs, protein size, transcript count, GC content and synonymous, missense and nonsense mutations against transcript length.
 
-S5 Fig. Transcript length distribution for genes specifically expressed in the given tissues.
+S5 Fig. Gene length and intron distribution in the human genome.
 
-S6 Fig. Transcript length distribution for ageing related genes and for the rest of the dataset.
+S6 Fig. Transcript length distribution for genes specifically expressed in the given tissues.
 
-S7 Fig. Evolution results for mouse, gorilla and chimpanzee.
+S7 Fig. Transcript length distribution for ageing related genes and for the rest of the dataset.
 
-S8 Fig. Co-expression results.
+S8 Fig. Evolution results for mouse, gorilla and chimpanzee.
 
-S9 Fig. Protein-protein interactions results.
+S9 Fig. Co-expression results.
 
+S10 Fig. Protein-protein interactions results.
