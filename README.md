@@ -1,7 +1,7 @@
 # GeneLength_supplementary
 This GitHub provides the supplementary material for the following unpublished article:
 
-Lopes I, Altab G, Raina P, de Magalhaes JP. "Gene size matters: What determines gene length in the human genome?"
+Lopes I, Altab G, Raina P, de Magalhaes JP. "Gene size matters: An analysis of gene length in the human genome"
 
 
 
@@ -14,7 +14,7 @@ S1 Table. Dataset with the highest protein-coding transcript length per Gene, in
 
 S2 Table. Functional analysis results for WebGestalt and DAVID.
 
-S3 Table. KEGG Pathway IDs used in Supplementary Figure 3.
+S3 Table. Number of genes per KEGG Pathway and KEGG Pathway IDs used in Supplementary Figure 3.
 
 S4 Table. Co-Expression results.
 
@@ -22,7 +22,7 @@ S5 Table. Number of Protein-Protein interactions and Publications in Pubmed for 
 
 S1 Fig. Correlation between gene length and transcript length from the longest transcript in a gene.
 
-S2 Fig. Functional analysis results for Cellular Component and Molecular Function.
+S2 Fig. Functional analysis results.
 
 S3 Fig. Transcript length distribution per KEGG Pathway.
 
